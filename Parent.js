@@ -1,4 +1,5 @@
- class Parent{
+ 
+ module.exports= class Parent{
     constructor(x, y) {
         this.x = x;
         this.y = y;

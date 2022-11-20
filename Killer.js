@@ -1,3 +1,4 @@
+var Parent = require("./Parent");
 class Killer extends Parent {
     constructor(x, y) {
         super(x,y);

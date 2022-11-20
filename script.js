@@ -1,3 +1,12 @@
+var Grass = require('grass.js');
+var Killer = require('Killer.js');
+var Hunter = require('Hunter.js');
+var Bomb = require('Bomb.js');
+var GrassEater = require('GrassEater.js');
+var Predator = require('Predator.js');
+
+
+
 function generate(matLen, gr, grEat, pr, hun, kil, bm) {
     let matrix = []
     for (let i = 0; i < matLen; i++) {

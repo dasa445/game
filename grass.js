@@ -1,3 +1,4 @@
+ var Parent = require("./Parent")
  class Grass extends Parent {
 
 

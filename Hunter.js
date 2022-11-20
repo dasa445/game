@@ -1,3 +1,4 @@
+var Parent = require("./Parent")
 class Hunter extends Parent {
     constructor(x, y) {
        super(x,y);

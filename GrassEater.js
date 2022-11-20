@@ -1,4 +1,4 @@
-
+var Parent = require("./Parent")
 class GrassEater extends Parent {
     constructor(x,y){
         super(x,y);
